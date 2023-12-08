@@ -1,0 +1,90 @@
+#title{
+    color: #00dd00;
+    text-align: center;
+    margin: 1%;
+    font-size: 22px;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+#lime{
+    margin: auto;
+    display: block;
+}
+#black{
+    background-color: rgba(0, 0, 0, 0.58);
+    border-radius: 15px;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-bottom: 5%;
+    padding: 5%;
+}
+#tasti{
+    background-color: #00dd00;
+    text-align: center;
+    margin-bottom: 3%;
+    padding-bottom: 1%;
+    padding-top: 2px;
+}
+#hr1{
+    background-color:#f5b453;
+    height: 20px;
+    border: none;
+    width: 30%;
+    margin-left: 0;
+    border-radius: 5px;
+    margin-top: 0;
+    padding: 0;
+}
+#hr2{
+    background-color:#1ec31e;
+    height: 20px;
+    border: none;
+    width: 59%;
+    margin-left: 0;
+    border-radius: 5px;
+    margin-top: 0;
+    padding: 0;
+
+}
+#hr3{
+    background-color:#be4141;
+    height: 20px;
+    border: none;
+    width: 15%;
+    margin-left: 0;
+    border-radius: 5px;
+    margin-top: 0;
+    padding: 0;
+}
+.blancoMargine{
+    color: rgb(255, 255, 255);
+    margin-bottom: 21px;
+}
+.blanco{
+    color: rgb(255, 255, 255);
+}
+.margineTitolo{
+    margin: 0;
+}
+.margineParagrafo{
+    font-size: 10px;
+    margin: 1px;
+}
+.margine{
+    padding: 0;
+}
+.tasto{
+    font-size: 9px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 6px;
+}
+.checkboxMonopattino{
+    height: 10px !important;
+}
